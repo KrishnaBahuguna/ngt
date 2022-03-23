@@ -1,0 +1,10 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.example-card {
+  max-width: 400px;
+  box-shadow: 0 0 10px black;
+  margin-left: 20px;
+  border-radius: 5px;
+}
